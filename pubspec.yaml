@@ -27,19 +27,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-
   assets:
-    - assets/images/3465_1376 Delivery 510x510 Px.jpg
-    - assets/images/images (1).jpg
-    - assets/images/images.jpg
-    - assets/images/เครื่องจักรแปรรูปผัก-ผลไม้.jpg
-    - assets/images/th-11134207-7ras9-m9mg38or20dc64.jpg
-    - assets/images/b99eb34d-4c7c-47d5-a8f4-41c22f0d10fe.jpg
-    - assets/images/sz4vnp2g9i27JSPRJxTAG-o.jpg
-
-
-    assets:
-  - assets/videos/
+    - assets/images/
+    - assets/videos/
    
 
 flutter_icons:
