@@ -38,13 +38,8 @@ flutter:
     - assets/images/sz4vnp2g9i27JSPRJxTAG-o.jpg
 
 
-    - assets/videos/YTDown.com_Shorts_Media__jzzvifTqwk_001_1080p.mp4
-    - assets/videos/YTDown.com_Shorts_Media_q26zyUiJ-cM_001_1080p.mp4
-    - assets/videos/YTDown.com_Shorts_Media_SCv8qgzfJVw_001_1080p.mp4
-    - assets/videos/YTDown.com_Shorts_Media_MKL3x7wBETg_001_1080p.mp4
-    - assets/videos/YTDown.com_Shorts_Media_0nf94ePEUIg_001_1080p.mp4
-    - assets/videos/YTDown.com_Shorts_Media_73qC4SYJFgw_001_1080p.mp4
-    - assets/videos/YTDown.com_YouTube_Media_iRaHYFN62eM_001_1080p.mp4
+    assets:
+  - assets/videos/
    
 
 flutter_icons:
