@@ -1,0 +1,53 @@
+name: new_piyawat
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  geolocator: ^12.0.0
+  url_launcher: ^6.2.6
+  firebase_core: ^2.27.0
+  cloud_firestore: ^4.15.0
+  video_player: ^2.8.6
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/3465_1376 Delivery 510x510 Px.jpg
+    - assets/images/images (1).jpg
+    - assets/images/images.jpg
+    - assets/images/เครื่องจักรแปรรูปผัก-ผลไม้.jpg
+    - assets/images/th-11134207-7ras9-m9mg38or20dc64.jpg
+    - assets/images/b99eb34d-4c7c-47d5-a8f4-41c22f0d10fe.jpg
+    - assets/images/sz4vnp2g9i27JSPRJxTAG-o.jpg
+
+
+    - assets/videos/YTDown.com_Shorts_Media__jzzvifTqwk_001_1080p.mp4
+    - assets/videos/YTDown.com_Shorts_Media_q26zyUiJ-cM_001_1080p.mp4
+    - assets/videos/YTDown.com_Shorts_Media_SCv8qgzfJVw_001_1080p.mp4
+    - assets/videos/YTDown.com_Shorts_Media_MKL3x7wBETg_001_1080p.mp4
+    - assets/videos/YTDown.com_Shorts_Media_0nf94ePEUIg_001_1080p.mp4
+    - assets/videos/YTDown.com_Shorts_Media_73qC4SYJFgw_001_1080p.mp4
+    - assets/videos/YTDown.com_YouTube_Media_iRaHYFN62eM_001_1080p.mp4
+   
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/eat_1624559.png"
